@@ -1,9 +1,12 @@
 
 <head>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet"  type="text/css" href="main.css" />
 <title>
 Home| Pluralist Dialectics Society
 </title>
+  <meta name="description" content="Another audacious attempt, rethinking political philosophy and political systems."/>
 <head>
 <body>
 <h1 class="family1"> Pluralist Dialectics Society </h1>
